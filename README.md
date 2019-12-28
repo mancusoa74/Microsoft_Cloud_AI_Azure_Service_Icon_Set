@@ -6,4 +6,5 @@ This repository is a SVG to PNG conversion of the official MSFT Azure Icon Set a
 
 It is based on the latest 20190911 icon set
 
+![Microsfot Azure](./__logo.png)
 
