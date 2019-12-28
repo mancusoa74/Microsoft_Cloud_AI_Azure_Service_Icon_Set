@@ -1,4 +1,4 @@
-##Microsoft Azure Cloud and AI Symbol 
+# Microsoft Azure Cloud and AI Symbol 
 
 This repository is a SVG to PNG conversion of the official MSFT Azure Icon Set available here:
 
